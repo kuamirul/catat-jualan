@@ -1,0 +1,10 @@
+{
+  // Static assets only. The workers.dev URL is derived from "name": do NOT rename,
+  // or the app moves to a new origin and the phone's saved data will not be found.
+  "name": "catat-jualan",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}
